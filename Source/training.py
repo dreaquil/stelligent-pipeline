@@ -54,7 +54,7 @@ num_classes = "257"
 # batch size for training
 mini_batch_size =  "64"
 # number of epochs
-epochs = "2"
+epochs = "4"
 # learning rate
 learning_rate = "0.01"
 
